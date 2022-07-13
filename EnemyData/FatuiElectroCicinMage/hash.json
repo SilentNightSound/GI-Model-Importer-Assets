@@ -1,0 +1,77 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "ee618640",
+        "position_vb": "5ebcce10",
+        "blend_vb": "40365e57",
+        "texcoord_vb": "f848fc09",
+        "ib": "049a02cd",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4ecfdb18"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d0bc96f3"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "b7ff7a6e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ]
+        ],
+        "first_vs": "8ebb431df482b328"
+    },
+    {
+        "component_name": "Lantern",
+        "root_vs": "",
+        "draw_vb": "f29b3fab",
+        "position_vb": "f29b3fab",
+        "blend_vb": "40365e57",
+        "texcoord_vb": "cc04c98d",
+        "ib": "82d9825b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ffaaaf55"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eb6c2f52"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "8ebb431df482b328"
+    }
+]
