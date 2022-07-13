@@ -1,0 +1,124 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "7eb264fd",
+        "position_vb": "3a7f71f5",
+        "blend_vb": "d9ee433a",
+        "texcoord_vb": "4aebeee0",
+        "ib": "65ddc0df",
+        "object_indexes": [
+            0,
+            19968,
+            62868
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8457036e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f1ea7f03"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "28dba6c4"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "11f9342e"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "28dba6c4"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "11f9342e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ]
+        ],
+        "first_vs": "8ebb431df482b328"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "267091ab"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4e3376db"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "bf9fccca"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ]
+        ],
+        "first_vs": "3253ba6720db7979"
+    }
+]
