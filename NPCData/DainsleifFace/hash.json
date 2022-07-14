@@ -1,0 +1,42 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "6fd4652c6757c155",
+        "draw_vb": "f4e8e4b1",
+        "position_vb": "6b773d7d",
+        "blend_vb": "e32074e9",
+        "texcoord_vb": "e32074e9",
+        "ib": "f4e8e4b1",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f2e9f8f5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "000019-ps-t1"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "f596208e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "ca30d58b"
+                ]
+            ]
+        ],
+        "first_vs": "6fd4652c6757c155"
+    }
+]
