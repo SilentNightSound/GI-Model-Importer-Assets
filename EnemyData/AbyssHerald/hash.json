@@ -1,0 +1,77 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "20f5e761",
+        "position_vb": "c0a7c1b0",
+        "blend_vb": "ce5d3779",
+        "texcoord_vb": "67561b21",
+        "ib": "20f5e761",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "60e2477b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "90a0a578"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "a585ffdf"
+                ]
+            ]
+        ],
+        "first_vs": "2171146df0449df1"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "a3dd8fae",
+        "position_vb": "73df62fe",
+        "blend_vb": "19d2004f",
+        "texcoord_vb": "fb9f875b",
+        "ib": "a3dd8fae",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "60e2477b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "90a0a578"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "281d5bf6"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "a585ffdf"
+                ]
+            ]
+        ],
+        "first_vs": "2171146df0449df1"
+    }
+]

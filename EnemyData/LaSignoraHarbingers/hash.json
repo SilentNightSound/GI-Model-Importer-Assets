@@ -1,0 +1,106 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "71c4f64a",
+        "position_vb": "5fa08319",
+        "blend_vb": "3aca49d2",
+        "texcoord_vb": "63492b53",
+        "ib": "71c4f64a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "3436f12c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eff1029e"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ]
+        ],
+        "first_vs": "c1cbfd7ad743d225"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "0dcd3f88",
+        "position_vb": "0a894825",
+        "blend_vb": "c7b91bbe",
+        "texcoord_vb": "ddf59101",
+        "ib": "0dcd3f88",
+        "object_indexes": [
+            0,
+            50700
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7f54d3d6"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "145d4589"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e029acef"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "2a600a16"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ]
+        ],
+        "first_vs": "c1cbfd7ad743d225"
+    }
+]

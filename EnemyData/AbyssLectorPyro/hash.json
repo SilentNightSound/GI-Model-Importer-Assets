@@ -1,0 +1,82 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "3081295f",
+        "position_vb": "b5c980c9",
+        "blend_vb": "02b57d02",
+        "texcoord_vb": "bb2a091f",
+        "ib": "3081295f",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8a279394"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a6e88ae4"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "bd4c1764"
+                ]
+            ]
+        ],
+        "first_vs": "2171146df0449df1"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "3e3f6114",
+        "position_vb": "6db3d14e",
+        "blend_vb": "e97c9fee",
+        "texcoord_vb": "df8da417",
+        "ib": "3e3f6114",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8a279394"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a6e88ae4"
+                ],
+                [
+                    "DiffuseGuide",
+                    ".dds",
+                    "e7802b69"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "a585ffdf"
+                ]
+            ]
+        ],
+        "first_vs": "2171146df0449df1"
+    }
+]
