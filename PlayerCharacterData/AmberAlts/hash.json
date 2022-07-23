@@ -1,0 +1,95 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "8cc9274b",
+        "position_vb": "7f94e8da",
+        "blend_vb": "f35340d5",
+        "texcoord_vb": "dbc594b6",
+        "ib": "8cc9274b",
+        "object_indexes": [
+            0,
+            5670
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ae27902d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "29b001ba"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f683bcac"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "69b6e698"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ]
+        ],
+        "first_vs": "c1cbfd7ad743d225"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1d064079"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "000035-ps-t1"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "3f396398"
+                ]
+            ]
+        ],
+        "first_vs": "6fd4652c6757c155"
+    }
+]
