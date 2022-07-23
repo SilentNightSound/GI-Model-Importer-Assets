@@ -1,0 +1,130 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "4f5a6086",
+        "position_vb": "1385be5b",
+        "blend_vb": "f6d811e6",
+        "texcoord_vb": "d8d32b82",
+        "ib": "4f5a6086",
+        "object_indexes": [
+            0,
+            40830
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "487398e2"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0257e0e4"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "749bcd62"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "b4d77469"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b7ff7a6e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "59cd2559"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c7d57b19"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "b4d77469"
+                ]
+            ]
+        ],
+        "first_vs": "c9f40d39cc01a55e"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "32c81efa",
+        "position_vb": "22ffcdf0",
+        "blend_vb": "2f5781b3",
+        "texcoord_vb": "9085f3b3",
+        "ib": "32c81efa",
+        "object_indexes": [
+            0,
+            47034
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e013c5f3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "d3bdd331"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "3a6cc7ef"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "b4d77469"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b7ff7a6e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "59cd2559"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c7d57b19"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "b4d77469"
+                ]
+            ]
+        ],
+        "first_vs": "c9f40d39cc01a55e"
+    }
+]
