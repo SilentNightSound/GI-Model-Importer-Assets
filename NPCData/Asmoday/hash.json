@@ -1,0 +1,201 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "0dbdd55a",
+        "position_vb": "2e8504fd",
+        "blend_vb": "fe6d0c2b",
+        "texcoord_vb": "22bc3a45",
+        "ib": "dabb96e5",
+        "object_indexes": [
+            0,
+            40779,
+            69387,
+            80667,
+            82635,
+            83067
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress",
+            "Extra",
+            "Extra2",
+            "Extra23"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a9cd51b2"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "000042-ps-t1"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "bf9fccca"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6f8ead97"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0af38c0d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6f8ead97"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0af38c0d"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "12b04ece"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6f8ead97"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0af38c0d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "dfd68d1f"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6d9e5759"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1c6719d7"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c4aeaf43"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "1bcaf40a"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "3b162ece"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c42aa5a1"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "190dccd8"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "1bcaf40a"
+                ]
+            ]
+        ],
+        "first_vs": "7494a6d4010b8dec"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "adaf4af4"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "000041-ps-t1"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "bf9fccca"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ]
+        ],
+        "first_vs": "e81202ab08e127e2"
+    }
+]
