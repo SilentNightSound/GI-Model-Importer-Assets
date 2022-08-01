@@ -1,0 +1,91 @@
+[
+    {
+        "component_name": "",
+        "draw_vb": "bc8b4f71",
+        "position_vb": "bc8b4f71",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "1e9f4d6e",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "972d0666"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "47a80e7b"
+                ]
+            ]
+        ],
+        "first_vs": "a63ed5bf8a88dd10"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "90239f6d",
+        "position_vb": "ed9d64fb",
+        "blend_vb": "6217dacc",
+        "texcoord_vb": "35aa072d",
+        "ib": "6480d788",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "056ee5be"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "47a80e7b"
+                ]
+            ]
+        ],
+        "first_vs": "7668bd00ba910b3b"
+    },
+    {
+        "component_name": "3",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "d7874eb9",
+        "position_vb": "031ba068",
+        "blend_vb": "3361b8cd",
+        "texcoord_vb": "2d7a81e2",
+        "ib": "2ed0da97",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "056ee5be"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "47a80e7b"
+                ]
+            ]
+        ],
+        "first_vs": "7668bd00ba910b3b"
+    }
+]
