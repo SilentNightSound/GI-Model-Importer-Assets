@@ -1,0 +1,100 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "0f07748b",
+        "position_vb": "2a2a63ab",
+        "blend_vb": "b0c49997",
+        "texcoord_vb": "1339b941",
+        "ib": "3c46fe49",
+        "object_indexes": [
+            0,
+            22941
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "6913b9d4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5f076983"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "24463c26"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "db3491eb"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6a120218"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6cd41bdb"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "336e7cb184bcdb44"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "2021c2b9"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e3376db"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "380a1467"
+                ]
+            ]
+        ],
+        "first_vs": "e81202ab08e127e2"
+    }
+]
