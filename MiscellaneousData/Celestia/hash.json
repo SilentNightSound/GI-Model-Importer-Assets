@@ -1,0 +1,31 @@
+[
+    {
+        "component_name": "",
+        "draw_vb": "19966f4c",
+        "position_vb": "19966f4c",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "5fdf1ade",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "SkyIsland"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "224eda19"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba44e8b5"
+                ]
+            ]
+        ],
+        "first_vs": "70d7f8dfb2cc1666"
+    }
+]
