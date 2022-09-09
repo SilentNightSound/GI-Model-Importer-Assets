@@ -1,0 +1,82 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "",
+        "draw_vb": "1ab48063",
+        "position_vb": "1ab48063",
+        "blend_vb": "",
+        "texcoord_vb": "ac90d656",
+        "ib": "4147f32b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a56631c5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dfd68d1f"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c5057d7e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "107f6c26"
+                ]
+            ]
+        ],
+        "first_vs": "1c3b47ffb57d15c5"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "",
+        "draw_vb": "9602d5d1",
+        "position_vb": "9602d5d1",
+        "blend_vb": "",
+        "texcoord_vb": "26d65367",
+        "ib": "3dbb0e08",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a56631c5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "dfd68d1f"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "c5057d7e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "107f6c26"
+                ]
+            ]
+        ],
+        "first_vs": "1c3b47ffb57d15c5"
+    }
+]
