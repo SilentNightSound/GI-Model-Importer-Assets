@@ -1,0 +1,92 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "62b1d836",
+        "position_vb": "669a8933",
+        "blend_vb": "057472dc",
+        "texcoord_vb": "5a076aba",
+        "ib": "5f4f7a04",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5cfe43d9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9dd70974"
+                ]
+            ]
+        ],
+        "first_vs": "7494a6d4010b8dec"
+    },
+    {
+        "component_name": "2",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "3c254382",
+        "position_vb": "62a4f1dd",
+        "blend_vb": "f551c131",
+        "texcoord_vb": "8a2e24e2",
+        "ib": "5d4bd489",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1574237d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "59cd2559"
+                ]
+            ]
+        ],
+        "first_vs": "7494a6d4010b8dec"
+    },
+    {
+        "component_name": "3",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "482ef3dc",
+        "position_vb": "f0777f4d",
+        "blend_vb": "22e1733d",
+        "texcoord_vb": "5eae7a85",
+        "ib": "aed62f40",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5cfe43d9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "9dd70974"
+                ]
+            ]
+        ],
+        "first_vs": "7494a6d4010b8dec"
+    }
+]
