@@ -1,14 +1,15 @@
 [
     {
         "component_name": "",
-        "draw_vb": "65914967",
-        "position_vb": "65914967",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "4035c5d6",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "2256affe",
+        "position_vb": "2006ab8b",
+        "blend_vb": "a7799bac",
+        "texcoord_vb": "d7bee816",
+        "ib": "c79eca00",
         "object_indexes": [
             0,
-            4224
+            6102
         ],
         "object_classifications": [
             "Head",
@@ -19,12 +20,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "437a46a7"
+                    "a0d9ab98"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "66fd3d48"
+                    "5f824a97"
                 ],
                 [
                     "MetalMap",
@@ -41,7 +42,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "437a46a7"
+                    "a0d9ab98"
                 ]
             ]
         ],
