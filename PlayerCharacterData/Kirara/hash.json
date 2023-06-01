@@ -20,17 +20,17 @@
         "texture_hashes": [
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "6006d89d"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "0998fcda"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "c90298cc"
                 ],
@@ -42,17 +42,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "acf97111"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "9feba8b9"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "2fadf527"
                 ],
@@ -64,17 +64,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "acf97111"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "9feba8b9"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "2fadf527"
                 ],
@@ -86,5 +86,39 @@
             ]
         ],
         "first_vs": "7002cb4499a3d855"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "6eb20522"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e3376db"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "30180763"
+                ]
+            ]
+        ],
+        "first_vs": "f45fb84d2016b212"
     }
 ]
