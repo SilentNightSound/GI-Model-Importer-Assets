@@ -39,19 +39,19 @@
                 [
                     "ShadowRamp",
                     ".jpg",
-                    "7eb5b84e"
+                    "59cd2559"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "f1308148"
+                    "df127976"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "7494c444"
+                    "0f384b65"
                 ],
                 [
                     "MetalMap",
@@ -61,19 +61,19 @@
                 [
                     "ShadowRamp",
                     ".jpg",
-                    "7eb5b84e"
+                    "59cd2559"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "f1308148"
+                    "df127976"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "7494c444"
+                    "0f384b65"
                 ],
                 [
                     "MetalMap",
@@ -83,7 +83,7 @@
                 [
                     "ShadowRamp",
                     ".jpg",
-                    "7eb5b84e"
+                    "59cd2559"
                 ]
             ],
             [
@@ -105,11 +105,11 @@
                 [
                     "ShadowRamp",
                     ".jpg",
-                    "7eb5b84e"
+                    "59cd2559"
                 ]
             ]
         ],
-        "first_vs": "b4ce2fa5c51c259e"
+        "first_vs": "110b0550e4ea38af"
     },
     {
         "component_name": "Face",
@@ -139,15 +139,10 @@
                 [
                     "Shadow",
                     ".dds",
-                    "bf9fccca"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
+                    "49bea32e"
                 ]
             ]
         ],
-        "first_vs": "cbe73ac3f69130d6"
+        "first_vs": "ac08367ac2bb8545"
     }
 ]
