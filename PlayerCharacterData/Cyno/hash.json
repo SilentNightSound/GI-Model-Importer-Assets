@@ -3,8 +3,8 @@
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
         "draw_vb": "fc54f147",
-        "position_vb": "68416e15",
-        "blend_vb": "44d9d0f7",
+        "position_vb": "4cc92f60",
+        "blend_vb": "6867e0b8",
         "texcoord_vb": "9ea96ce5",
         "ib": "97cc2eae",
         "object_indexes": [
@@ -20,17 +20,17 @@
         "texture_hashes": [
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "f087f97c"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "fd3917d0"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "aca8de44"
                 ],
@@ -42,17 +42,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "6ca25e89"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "66e7e2c5"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "0d5e9531"
                 ],
@@ -64,17 +64,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "6ca25e89"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "66e7e2c5"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "0d5e9531"
                 ],
@@ -85,7 +85,7 @@
                 ]
             ]
         ],
-        "first_vs": "336e7cb184bcdb44"
+        "first_vs": "ac17fc996680a93a"
     },
     {
         "component_name": "Face",
@@ -110,20 +110,10 @@
                 [
                     "LightMap",
                     ".dds",
-                    "000049-ps-t1"
+                    "830046fd"
                 ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "59df7508"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ]
             ]
         ],
-        "first_vs": "e81202ab08e127e2"
+        "first_vs": "ac08367ac2bb8545"
     }
 ]
