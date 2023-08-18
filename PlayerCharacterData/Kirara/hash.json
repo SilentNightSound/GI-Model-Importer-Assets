@@ -1,0 +1,124 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "e656b9fd",
+        "position_vb": "cc833025",
+        "blend_vb": "01d54938",
+        "texcoord_vb": "33b3d6e5",
+        "ib": "ce3dc5a2",
+        "object_indexes": [
+            0,
+            37128,
+            75234
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "6006d89d"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0998fcda"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c90298cc"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "acf97111"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9feba8b9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "2fadf527"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "acf97111"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9feba8b9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "2fadf527"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "7002cb4499a3d855"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "6eb20522"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4e3376db"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "30180763"
+                ]
+            ]
+        ],
+        "first_vs": "f45fb84d2016b212"
+    }
+]

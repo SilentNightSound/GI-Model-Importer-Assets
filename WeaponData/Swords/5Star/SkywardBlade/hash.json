@@ -7,10 +7,12 @@
         "texcoord_vb": "",
         "ib": "4035c5d6",
         "object_indexes": [
-            0
+            0,
+            4224
         ],
         "object_classifications": [
-            "Head"
+            "Head",
+            "Body"
         ],
         "texture_hashes": [
             [
@@ -30,12 +32,19 @@
                     "b0e08915"
                 ],
                 [
-                    "DiffuseGuide",
+                    "ShadowRamp",
+                    ".jpg",
+                    "59cd2559"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
                     ".dds",
-                    "3ed0f51e"
+                    "437a46a7"
                 ]
             ]
         ],
-        "first_vs": "d9375a68db904c9c"
+        "first_vs": "03226e85691bd4ce"
     }
 ]
