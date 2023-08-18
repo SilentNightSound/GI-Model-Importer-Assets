@@ -1,0 +1,60 @@
+[
+    {
+        "component_name": "Knife",
+        "draw_vb": "aaedc302",
+        "position_vb": "aaedc302",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "152ad73d",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f1ba1021"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ae05c43d"
+                ]
+            ]
+        ],
+        "first_vs": "312deb50f8d650ee"
+    },
+    {
+        "component_name": "Cane",
+        "draw_vb": "3f9b93ab",
+        "position_vb": "3f9b93ab",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "eb99ac83",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f1ba1021"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ae05c43d"
+                ]
+            ]
+        ],
+        "first_vs": "312deb50f8d650ee"
+    }
+]
