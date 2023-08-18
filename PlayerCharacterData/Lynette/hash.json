@@ -22,24 +22,14 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
+                    "Diffuse",
                     ".dds",
                     "b758feec"
                 ],
                 [
-                    "Diffuse",
-                    ".dds",
-                    "3fea57a6"
-                ],
-                [
                     "LightMap",
                     ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "3fea57a6"
                 ]
             ],
             [
@@ -66,24 +56,14 @@
             ],
             [
                 [
-                    "NormalMap",
+                    "Diffuse",
                     ".dds",
                     "b758feec"
                 ],
                 [
-                    "Diffuse",
-                    ".dds",
-                    "3fea57a6"
-                ],
-                [
                     "LightMap",
                     ".dds",
-                    "7eb5b84e"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "58d2635b"
+                    "3fea57a6"
                 ]
             ],
             [
