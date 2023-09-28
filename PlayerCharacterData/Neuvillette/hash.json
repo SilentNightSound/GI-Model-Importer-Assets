@@ -76,7 +76,8 @@
             ]
         ],
         "first_vs": "110b0550e4ea38af"
-    },{
+    },
+    {
         "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",

@@ -2,7 +2,7 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "0028d4d1",
+        "draw_vb": "89cdfbf6",
         "position_vb": "1f7f0600",
         "blend_vb": "e70695e0",
         "texcoord_vb": "ce8cbdfb",
@@ -61,7 +61,7 @@
     {
         "component_name": "Cloak",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "cb027e67",
+        "draw_vb": "42e75140",
         "position_vb": "1a09e6cd",
         "blend_vb": "ba99977e",
         "texcoord_vb": "c1b3fa02",
