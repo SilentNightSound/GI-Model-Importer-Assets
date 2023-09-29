@@ -2,7 +2,7 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "7a5baa6d",
+        "draw_vb": "9e367179",
         "position_vb": "c70b7fce",
         "blend_vb": "52457202",
         "texcoord_vb": "9f8a009c",
@@ -66,7 +66,7 @@
     {
         "component_name": "Hood",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "9e367179",
+        "draw_vb": "7a5baa6d",
         "position_vb": "719e12da",
         "blend_vb": "0f07f2b4",
         "texcoord_vb": "86eb045a",
