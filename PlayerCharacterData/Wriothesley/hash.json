@@ -1,0 +1,155 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "1d3faf44",
+        "position_vb": "aa6f1268",
+        "blend_vb": "9f5dc53b",
+        "texcoord_vb": "f7242288",
+        "ib": "a6b6de38",
+        "object_indexes": [
+            0,
+            11634
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "593bccf1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "42d5f166"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1e526072"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "dfb35d93"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8150aba9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6fa5e7d0"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "ac17fc996680a93a"
+    },
+    {
+        "component_name": "Jacket",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "19d2ff67",
+        "position_vb": "c351ac3a",
+        "blend_vb": "3113b264",
+        "texcoord_vb": "edf572dd",
+        "ib": "496a6d62",
+        "object_indexes": [
+            0,
+            21042
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "593bccf1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "42d5f166"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1e526072"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "dfb35d93"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8150aba9"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6fa5e7d0"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "ac17fc996680a93a"
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "638e55c5"
+                ]
+            ]
+        ],
+        "first_vs": "ac08367ac2bb8545"
+    }
+]

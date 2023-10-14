@@ -1,0 +1,86 @@
+[
+    {
+        "component_name": "Bubble",
+        "root_vs": "",
+        "draw_vb": "2c2887f2",
+        "position_vb": "2c2887f2",
+        "blend_vb": "",
+        "texcoord_vb": "336d3b4b",
+        "ib": "3f6d614c",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c9f96604"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "bb5905b2"
+                ]
+            ]
+        ],
+        "first_vs": "277d6fb06c591a68"
+    },
+    {
+        "component_name": "Baby",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "78a65dfd",
+        "position_vb": "7b27c015",
+        "blend_vb": "02832c24",
+        "texcoord_vb": "5b80dde9",
+        "ib": "3633dea5",
+        "object_indexes": [
+            0,
+            14130
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7d32e14d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ea3e3078"
+                ],
+                [
+                    "Shadow",
+                    ".dds",
+                    "49bea32e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "b7ff7a6e"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b7ff7a6e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "88869bf8"
+                ]
+            ]
+        ],
+        "first_vs": "14e9902a3f3a7fdf"
+    }
+]
