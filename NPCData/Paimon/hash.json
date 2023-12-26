@@ -6,7 +6,7 @@
         "position_vb": "1f7f0600",
         "blend_vb": "e70695e0",
         "texcoord_vb": "ce8cbdfb",
-        "ib": "6398b643",
+        "ib": "5b4cdc9c",
         "object_indexes": [
             0,
             26226
@@ -65,7 +65,7 @@
         "position_vb": "1a09e6cd",
         "blend_vb": "ba99977e",
         "texcoord_vb": "c1b3fa02",
-        "ib": "f218fa82",
+        "ib": "cacc905d",
         "object_indexes": [
             0
         ],
