@@ -95,22 +95,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "9164b152"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "bf9fccca"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
+                    "ac81584f"
                 ]
             ]
         ],
