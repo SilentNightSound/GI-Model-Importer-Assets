@@ -2,7 +2,7 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "0c7e3438",
+        "draw_vb": "7d43358a",
         "position_vb": "3c37e40c",
         "blend_vb": "0c7e3438",
         "texcoord_vb": "f89169d4",
@@ -18,12 +18,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "21b182d9"
+                    "61df0305"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "58549b64"
+                    "d438fe9f"
                 ],
                 [
                     "MetalMap",
