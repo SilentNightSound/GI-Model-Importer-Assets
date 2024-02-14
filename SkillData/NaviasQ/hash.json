@@ -1,0 +1,65 @@
+[
+    {
+        "component_name": "Base",
+        "draw_vb": "22a27846",
+        "position_vb": "22a27846",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "546e75f7",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cb0d2c05"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "19e22294"
+                ]
+            ]
+        ],
+        "first_vs": "839a164262ff4b73"
+    },
+    {
+        "component_name": "Cannon",
+        "draw_vb": "ff44e657",
+        "position_vb": "ff44e657",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "5f7651ab",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "def4d910"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "cb0d2c05"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "19e22294"
+                ]
+            ]
+        ],
+        "first_vs": "f2628473611f4998"
+    }
+]
