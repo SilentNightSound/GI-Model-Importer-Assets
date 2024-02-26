@@ -20,17 +20,17 @@
         "texture_hashes": [
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "9ab8b2fc"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "6c1d69d9"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "66ca3aee"
                 ],
@@ -42,17 +42,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "d106c084"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "e39d3d43"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "dfa02c17"
                 ],
@@ -64,17 +64,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "d106c084"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "e39d3d43"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "dfa02c17"
                 ],
@@ -85,6 +85,45 @@
                 ]
             ]
         ],
-        "first_vs": "75e96835f51ceaed"
+        "first_vs": "0201f91c60f12ca8"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "315022f1"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "830046fd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "5a1dc9f0"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "6e2fb506fd91c482"
     }
 ]
