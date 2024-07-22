@@ -1,0 +1,90 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "4955fc99",
+        "position_vb": "f8013ba9",
+        "blend_vb": "53a2502b",
+        "texcoord_vb": "596e8fe0",
+        "ib": "846979e2",
+        "object_indexes": [
+            0,
+            36804,
+            80295
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "c715bcf7"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "16fbe9b0"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "f74f093d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "89a118ba"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e3a21e6f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "8ca27fd3"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "e3a21e6f"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "8ca27fd3"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7eb5b84e"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "ef9d42524d7111b0"
+    }
+]
