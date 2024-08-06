@@ -1,0 +1,114 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "604fb4b3",
+        "position_vb": "62679081",
+        "blend_vb": "6325e18b",
+        "texcoord_vb": "31e21e6f",
+        "ib": "ad5364a7",
+        "object_indexes": [
+            0,
+            27675,
+            66633,
+            77811
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress",
+            "Extra"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "48a838b0"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a393a4d8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eac0bc5d"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "b7ff7a6e"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "81838090"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "846e94b7"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "88cace6d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "81838090"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "846e94b7"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "88cace6d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "48a838b0"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a393a4d8"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eac0bc5d"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "ef9d42524d7111b0"
+    }
+]
