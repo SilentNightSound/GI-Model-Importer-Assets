@@ -35,9 +35,31 @@
                     "92476121"
                 ],
                 [
-                    "ShadowRamp",
-                    ".jpg",
-                    "000022-ps-t3"
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "021c62c4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "caa220dd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba9c2d91"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
                 ]
             ],
             [
@@ -59,32 +81,10 @@
                 [
                     "ShadowRamp",
                     ".jpg",
-                    "000021-ps-t3"
-                ]
-            ],
-            [
-                [
-                    "NormalMap",
-                    ".dds",
-                    "021c62c4"
-                ],
-                [
-                    "Diffuse",
-                    ".dds",
-                    "caa220dd"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "ba9c2d91"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "000020-ps-t3"
+                    "7eb5b84e"
                 ]
             ]
         ],
-        "first_vs": "2b155ac78b3f3fe0"
+        "first_vs": "ef9d42524d7111b0"
     }
 ]
