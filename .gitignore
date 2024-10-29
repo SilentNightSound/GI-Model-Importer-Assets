@@ -1,8 +1,9 @@
-
-WeaponData/Swords/4Star/AlleyFlash/AlleyFlashHead.fmt
-WeaponData/Swords/4Star/AlleyFlash/AlleyFlashHead.ib
-WeaponData/Swords/4Star/AlleyFlash/AlleyFlashHead.vb
-WeaponData/Swords/4Star/FavoniusSword/FavoniusSwordHead.fmt
-WeaponData/Swords/4Star/FavoniusSword/FavoniusSwordHead.ib
-WeaponData/Swords/4Star/FavoniusSword/FavoniusSwordHead.vb
-PlayerCharacterData/Ayaka.rar
+alljsons41.json
+alljsons43.json
+consolidate diccs.py
+dicc from hash.py
+newdraws.json
+hashes.csv
+convertion.py
+genshin_update_mods_43.py
+4.3fix.py

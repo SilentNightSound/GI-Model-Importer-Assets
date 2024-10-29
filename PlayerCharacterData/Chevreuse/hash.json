@@ -1,0 +1,91 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "02993f26",
+        "position_vb": "4d8d965a",
+        "blend_vb": "8e8fe0e3",
+        "texcoord_vb": "350c5b58",
+        "ib": "77208d51",
+        "object_indexes": [
+            0,
+            45951
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ba7535a6"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "72fb785f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "baa57fcd"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "874bdb52"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "d493726e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "cb535c8a"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "0201f91c60f12ca8"
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "04be9db3"
+                ]
+            ]
+        ],
+        "first_vs": "6e2fb506fd91c482"
+    }
+]

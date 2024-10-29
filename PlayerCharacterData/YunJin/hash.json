@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "423e7a1d",
+        "draw_vb": "cbdb553a",
         "position_vb": "221f052e",
         "blend_vb": "65220c80",
         "texcoord_vb": "1207d3e9",
-        "ib": "fee6d200",
+        "ib": "c632b8df",
         "object_indexes": [
             0,
             11550,

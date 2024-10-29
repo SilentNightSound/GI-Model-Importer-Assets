@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "33c2fa53",
+        "draw_vb": "ba27d574",
         "position_vb": "24ecd71a",
         "blend_vb": "1fb4b2dd",
         "texcoord_vb": "1b428e0a",
-        "ib": "8ac1328b",
+        "ib": "b2155854",
         "object_indexes": [
             0,
             10782,
@@ -95,22 +95,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "9164b152"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "bf9fccca"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
+                    "ac81584f"
                 ]
             ]
         ],

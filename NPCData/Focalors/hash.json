@@ -1,0 +1,90 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "06ff2ecc",
+        "position_vb": "c58c01de",
+        "blend_vb": "14859003",
+        "texcoord_vb": "297f84ea",
+        "ib": "4e30d6d8",
+        "object_indexes": [
+            0,
+            29280,
+            51312
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "ca09414c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c821d74b"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7eb5b84e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "db2321f6"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "027468ba"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "db2321f6"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "027468ba"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ]
+        ],
+        "first_vs": "1948378ab4e37b67"
+    }
+]
