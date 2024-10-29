@@ -1,0 +1,60 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "98ccf5bc",
+        "position_vb": "98ccf5bc",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "fe44800b",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5656bffb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "264fd40a"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Blade",
+        "root_vs": "",
+        "draw_vb": "a3a63c54",
+        "position_vb": "a3a63c54",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "454497ea",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5656bffb"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "264fd40a"
+                ]
+            ]
+        ]
+    }
+]

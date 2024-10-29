@@ -18,25 +18,14 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "d301c6f9"
+                    "77680e2f"
                 ],
                 [
                     "LightMap",
                     ".dds",
                     "4c4c1fdd"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "59cd2559"
                 ]
             ]
-        ],
-        "first_vs": "03226e85691bd4ce"
+        ]
     }
 ]
