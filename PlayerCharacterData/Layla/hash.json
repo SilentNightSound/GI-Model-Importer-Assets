@@ -86,44 +86,5 @@
             ]
         ],
         "first_vs": "ef9d42524d7111b0"
-    },
-    {
-        "component_name": "Face",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "Head"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "NormalMap",
-                    ".dds",
-                    "1089b539"
-                ],
-                [
-                    "Diffuse",
-                    ".dds",
-                    "830046fd"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "30180763"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ]
-            ]
-        ],
-        "first_vs": "6e2fb506fd91c482"
     }
 ]
