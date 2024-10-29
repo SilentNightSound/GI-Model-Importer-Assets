@@ -1,0 +1,70 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "",
+        "draw_vb": "204bf674",
+        "position_vb": "204bf674",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "b78cbb5c",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "c48129e4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7796b3de"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eea73889"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Bulb",
+        "root_vs": "",
+        "draw_vb": "f1b9ddc0",
+        "position_vb": "f1b9ddc0",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "a4ee89d6",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "c48129e4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "7796b3de"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "eea73889"
+                ]
+            ]
+        ]
+    }
+]
