@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "",
-        "draw_vb": "22802011",
-        "position_vb": "22802011",
+        "draw_vb": "c82db298",
+        "position_vb": "c82db298",
         "blend_vb": "",
         "texcoord_vb": "",
-        "ib": "4fc6fa1f",
+        "ib": "b793be3a",
         "object_indexes": [
             0
         ],
@@ -18,12 +18,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "5b9e1a97"
+                    "fe7750b1"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "99899812"
+                    "bfe56b3d"
                 ]
             ]
         ]

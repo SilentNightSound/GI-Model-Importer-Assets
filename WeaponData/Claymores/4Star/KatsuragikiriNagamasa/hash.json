@@ -1,12 +1,12 @@
 [
     {
         "component_name": "",
-        "root_vs": "",
-        "draw_vb": "22802011",
-        "position_vb": "22802011",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "4fc6fa1f",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "ad43a0bb",
+        "position_vb": "099a58eb",
+        "blend_vb": "65e935e3",
+        "texcoord_vb": "d056edf3",
+        "ib": "e577572e",
         "object_indexes": [
             0
         ],
@@ -18,12 +18,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "5b9e1a97"
+                    "bb24d151"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "99899812"
+                    "a1664ddb"
                 ]
             ]
         ]
