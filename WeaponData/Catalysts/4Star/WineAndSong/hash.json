@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "7784a0cb",
+        "draw_vb": "fe618fec",
         "position_vb": "1578acf2",
         "blend_vb": "46660cc3",
         "texcoord_vb": "ffb45938",
-        "ib": "637fe5c9",
+        "ib": "5bab8f16",
         "object_indexes": [
             0
         ],
@@ -18,25 +18,14 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "b10641f6"
+                    "173babe8"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "ed2dd4d0"
-                ],
-                [
-                    "DiffuseGuide",
-                    ".dds",
-                    "3ed0f51e"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "6b32141e"
+                    "e553caf0"
                 ]
             ]
-        ],
-        "first_vs": "03226e85691bd4ce"
+        ]
     }
 ]
