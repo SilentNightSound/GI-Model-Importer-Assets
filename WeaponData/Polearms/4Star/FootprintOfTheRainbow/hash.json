@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "",
-        "draw_vb": "0c7a979d",
-        "position_vb": "0c7a979d",
+        "draw_vb": "da07544a",
+        "position_vb": "da07544a",
         "blend_vb": "",
         "texcoord_vb": "",
-        "ib": "6a774547",
+        "ib": "e3489a1e",
         "object_indexes": [
             0
         ],
@@ -16,14 +16,19 @@
         "texture_hashes": [
             [
                 [
+                    "NormalMap",
+                    ".dds",
+                    "c2770d21"
+                ],
+                [
                     "Diffuse",
                     ".dds",
-                    "3237fd3b"
+                    "142b3a66"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "764d0637"
+                    "84459e98"
                 ]
             ]
         ]
