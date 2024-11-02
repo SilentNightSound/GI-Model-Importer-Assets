@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "b8cdf6dc",
+        "draw_vb": "3128d9fb",
         "position_vb": "8bf32329",
         "blend_vb": "364f202c",
         "texcoord_vb": "6047c894",
-        "ib": "8859cba5",
+        "ib": "b08da17a",
         "object_indexes": [
             0,
             7860
@@ -20,47 +20,21 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "272edff4"
+                    "44122a84"
                 ],
                 [
                     "LightMap",
                     ".dds",
                     "68ff1274"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "DiffuseGuide",
-                    ".dds",
-                    "3ed0f51e"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "272edff4"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "6b32141e"
-                ],
-                [
-                    "DiffuseGuide",
-                    ".dds",
-                    "3ed0f51e"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "190dccd8"
+                    "44122a84"
                 ]
             ]
-        ],
-        "first_vs": "d9375a68db904c9c"
+        ]
     }
 ]
