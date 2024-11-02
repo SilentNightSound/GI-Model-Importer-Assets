@@ -1,0 +1,120 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "42a2efec",
+        "position_vb": "55c132a8",
+        "blend_vb": "a2b45a40",
+        "texcoord_vb": "1f39244d",
+        "ib": "97967876",
+        "object_indexes": [
+            0,
+            30453,
+            66771
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "14e5318e"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "710a6b1c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "79e49d27"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "9a52db94"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "eafcefdc"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "a9197c9f"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "710a6b1c"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "79e49d27"
+                ],
+                [
+                    "MetalMap",
+                    ".dds",
+                    "b0e08915"
+                ]
+            ]
+        ],
+        "first_vs": "2b155ac78b3f3fe0"
+    },
+    {
+        "component_name": "Arms",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "bb2f1c84",
+        "position_vb": "725e36bd",
+        "blend_vb": "7289b3c3",
+        "texcoord_vb": "f53e9784",
+        "ib": "0647f663",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "77409a3d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "0e7e0077"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ]
+            ]
+        ],
+        "first_vs": "93fca0dc4fa60ebc"
+    }
+]

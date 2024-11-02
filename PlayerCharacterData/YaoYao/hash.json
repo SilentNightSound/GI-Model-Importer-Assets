@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "cf68b0bd",
+        "draw_vb": "468d9f9a",
         "position_vb": "293449d6",
         "blend_vb": "139a19fb",
         "texcoord_vb": "bea7a2f7",
-        "ib": "54c0b1e8",
+        "ib": "6c14db37",
         "object_indexes": [
             0,
             21678
@@ -18,17 +18,17 @@
         "texture_hashes": [
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "43b608b3"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "b3e065c5"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "bebfcd2b"
                 ],
@@ -40,17 +40,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "51c301d3"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "78671236"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "f7e1436e"
                 ],
@@ -61,6 +61,31 @@
                 ]
             ]
         ],
-        "first_vs": "75e96835f51ceaed"
+        "first_vs": "ac17fc996680a93a"
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "c70ae897"
+                ]
+            ]
+        ],
+        "first_vs": "ac17fc996680a93a"
     }
 ]

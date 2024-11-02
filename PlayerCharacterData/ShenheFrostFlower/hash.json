@@ -1,0 +1,114 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "6102c3ef",
+        "position_vb": "ee0980eb",
+        "blend_vb": "263019b8",
+        "texcoord_vb": "d36f368d",
+        "ib": "83a9116d",
+        "object_indexes": [
+            0,
+            31326,
+            66588,
+            70068
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress",
+            "Extra"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4e5d638d"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1ab2f510"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "625d0bb4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "51529edd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "b0e08915"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "58d2635b"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4e5d638d"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1ab2f510"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7eb5b84e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "000050-ps-t3"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "625d0bb4"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "51529edd"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7eb5b84e"
+                ],
+                [
+                    "ShadowRamp",
+                    ".jpg",
+                    "000049-ps-t3"
+                ]
+            ]
+        ],
+        "first_vs": "1948378ab4e37b67"
+    }
+]

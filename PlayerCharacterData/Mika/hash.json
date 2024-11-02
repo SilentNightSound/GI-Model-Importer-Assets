@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "14be9ad8",
+        "draw_vb": "9d5bb5ff",
         "position_vb": "1876e82e",
         "blend_vb": "b8a027a1",
         "texcoord_vb": "285f6696",
-        "ib": "79a263de",
+        "ib": "41760901",
         "object_indexes": [
             0,
             21072,
@@ -87,7 +87,7 @@
         ],
         "first_vs": "75e96835f51ceaed"
     },
-	 {
+    {
         "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",

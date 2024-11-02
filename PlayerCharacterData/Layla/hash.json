@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "ad28f613",
+        "draw_vb": "24cdd934",
         "position_vb": "2656ccca",
-        "blend_vb": "bafaa0e8",
+        "blend_vb": "72f035f8",
         "texcoord_vb": "fa03c149",
-        "ib": "b617aa07",
+        "ib": "8ec3c0d8",
         "object_indexes": [
             0,
             49878,
@@ -20,17 +20,17 @@
         "texture_hashes": [
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "90651adc"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "9305d73a"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "aa504afc"
                 ],
@@ -42,17 +42,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "109b29bb"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "c489c9d6"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "162703d9"
                 ],
@@ -64,17 +64,17 @@
             ],
             [
                 [
-                    "Diffuse",
+                    "NormalMap",
                     ".dds",
                     "109b29bb"
                 ],
                 [
-                    "LightMap",
+                    "Diffuse",
                     ".dds",
                     "c489c9d6"
                 ],
                 [
-                    "Shadow",
+                    "LightMap",
                     ".dds",
                     "162703d9"
                 ],
@@ -85,6 +85,6 @@
                 ]
             ]
         ],
-        "first_vs": "336e7cb184bcdb44"
+        "first_vs": "ef9d42524d7111b0"
     }
 ]

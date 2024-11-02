@@ -1,0 +1,115 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "8487a77e",
+        "position_vb": "0110e1c7",
+        "blend_vb": "a716d4f2",
+        "texcoord_vb": "798f0feb",
+        "ib": "6bba515c",
+        "object_indexes": [
+            0,
+            17379
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "79a9ab2a"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "16f84d90"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4b841481"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "05354131"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "841c3322"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "581644b9"
+                ]
+            ]
+        ],
+        "first_vs": "ac17fc996680a93a"
+    },
+    {
+        "component_name": "Face",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ab051bae"
+                ]
+            ]
+        ],
+        "first_vs": "ac08367ac2bb8545"
+    },
+    {
+        "component_name": "Hat",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "605a18d6",
+        "position_vb": "d74251a0",
+        "blend_vb": "9ea4c014",
+        "texcoord_vb": "9881a0d4",
+        "ib": "a16aff98",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "05354131"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "841c3322"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "581644b9"
+                ]
+            ]
+        ],
+        "first_vs": "ac17fc996680a93a"
+    }
+]
