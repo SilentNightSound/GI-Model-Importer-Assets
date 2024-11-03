@@ -1,6 +1,7 @@
 [
     {
         "component_name": "",
+        "root_vs": "",
         "draw_vb": "258b61e8",
         "position_vb": "258b61e8",
         "blend_vb": "",
@@ -17,25 +18,14 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "e692e151"
+                    "0eecb2ac"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "5ea10941"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "DiffuseGuide",
-                    ".dds",
-                    "3ed0f51e"
+                    "42a4196d"
                 ]
             ]
-        ],
-        "first_vs": "d9375a68db904c9c"
+        ]
     }
 ]
