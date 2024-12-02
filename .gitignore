@@ -7,3 +7,7 @@ hashes.csv
 convertion.py
 genshin_update_mods_43.py
 4.3fix.py
+*.rar
+*.zip
+*.7z
+*Mod/
