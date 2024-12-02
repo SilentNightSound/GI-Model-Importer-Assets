@@ -1,6 +1,6 @@
 [
     {
-        "component_name": "Body",
+        "component_name": "",
         "root_vs": "",
         "draw_vb": "204bf674",
         "position_vb": "204bf674",
@@ -23,7 +23,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "7796b3de"
+                    "500e7f01"
                 ],
                 [
                     "LightMap",
@@ -57,7 +57,7 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "7796b3de"
+                    "500e7f01"
                 ],
                 [
                     "LightMap",
