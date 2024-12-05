@@ -33,11 +33,6 @@
                     "LightMap",
                     ".dds",
                     "7a4be5e0"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -55,11 +50,6 @@
                     "LightMap",
                     ".dds",
                     "b77faead"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -77,18 +67,42 @@
                     "LightMap",
                     ".dds",
                     "7a4be5e0"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "82cc17bb7a2709e7"
+        ]
     },
     {
         "component_name": "NatlanFX",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0,
+            35445,
+            81135
+        ],
+        "object_classifications": [
+            "Head",
+            "Body",
+            "Dress"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Shadow",
+                    ".dds",
+                    "daaf4e70"
+                ]
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
@@ -104,9 +118,9 @@
         "texture_hashes": [
             [
                 [
-                    "Shadow",
+                    "Diffuse",
                     ".dds",
-                    "daaf4e70s"
+                    "84d7374c"
                 ]
             ]
         ]
