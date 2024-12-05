@@ -1,6 +1,6 @@
 [
     {
-        "component_name": "",
+        "component_name": "Character",
         "root_vs": "653c63ba4a73ca8b",
         "draw_vb": "46b88d32",
         "position_vb": "888c4b7c",
@@ -31,11 +31,6 @@
                     "LightMap",
                     ".dds",
                     "07040d80"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -53,18 +48,12 @@
                     "LightMap",
                     ".dds",
                     "0ccd64e7"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "82cc17bb7a2709e7"
+        ]
     },
     {
-        "component_name": "NatlanFX",
+        "component_name": "Face",
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
@@ -80,11 +69,38 @@
         "texture_hashes": [
             [
                 [
+                    "LightMap",
+                    ".dds",
+                    "478a69ce"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "NatlanFX",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0,
+            47910
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
                     "Shadow",
                     ".dds",
                     "8782d2da"
                 ]
-            ]
+            ],
+            []
         ]
     }
 ]
