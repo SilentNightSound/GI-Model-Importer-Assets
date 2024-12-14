@@ -1,6 +1,6 @@
 [
     {
-        "component_name": "Body",
+        "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
         "draw_vb": "5d1cef93",
         "position_vb": "809f7fff",
@@ -18,36 +18,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "c13d5cb6"
+                    "8da58358"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "3b5f5b50"
-                ]
-            ]
-        ]
-    },
-    {
-        "component_name": "Circle",
-        "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "a09b3f0b",
-        "position_vb": "373580ad",
-        "blend_vb": "0a66b844",
-        "texcoord_vb": "877e5db4",
-        "ib": "b3ea9991",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "Head"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "c13d5cb6"
+                    "4f4cac3c"
                 ]
             ]
         ]
