@@ -1,12 +1,12 @@
 [
     {
         "component_name": "",
-        "root_vs": "",
-        "draw_vb": "eda1ca6b",
-        "position_vb": "eda1ca6b",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "be98e803",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "361fdde0",
+        "position_vb": "18802bf2",
+        "blend_vb": "dd3d91ea",
+        "texcoord_vb": "cbccbec2",
+        "ib": "0cc8180c",
         "object_indexes": [
             0
         ],
@@ -16,19 +16,14 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "6f004e3a"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "81f238e4"
+                    "cf90519e"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "18bb93e1"
+                    "576f43ad"
                 ]
             ]
         ]
