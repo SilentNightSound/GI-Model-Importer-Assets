@@ -33,11 +33,6 @@
                     "LightMap",
                     ".dds",
                     "2d25bfac"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -55,11 +50,6 @@
                     "LightMap",
                     ".dds",
                     "3227b0da"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -77,18 +67,13 @@
                     "LightMap",
                     ".dds",
                     "2d25bfac"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "336e7cb184bcdb44"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -103,27 +88,11 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "b21bdf4c"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "000048-ps-t1"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "3f396398"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
+                    "b21bdf4c"
                 ]
             ]
-        ],
-        "first_vs": "e81202ab08e127e2"
+        ]
     }
 ]

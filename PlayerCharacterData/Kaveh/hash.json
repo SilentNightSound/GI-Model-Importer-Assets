@@ -50,11 +50,11 @@
                     "4e83e234"
                 ]
             ]
-        ],
-        "first_vs": "7002cb4499a3d855"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -71,10 +71,9 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "604770ca"
+                    "546f6048"
                 ]
             ]
-        ],
-        "first_vs": "f45fb84d2016b212"
+        ]
     }
 ]

@@ -29,7 +29,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b7ff7a6e"
+                    "1a2d9213"
                 ]
             ],
             [
@@ -41,7 +41,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b7ff7a6e"
+                    "1511ddf5"
                 ]
             ],
             [
@@ -53,7 +53,7 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b7ff7a6e"
+                    "1a2d9213"
                 ]
             ],
             [
@@ -65,14 +65,14 @@
                 [
                     "LightMap",
                     ".dds",
-                    "b7ff7a6e"
+                    "1511ddf5"
                 ]
             ]
-        ],
-        "first_vs": "ca5af302b8888dbb"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -90,14 +90,8 @@
                     "Diffuse",
                     ".dds",
                     "a13dc149"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "830046fd"
                 ]
             ]
-        ],
-        "first_vs": "3cc9d6cb7021d6f1"
+        ]
     }
 ]

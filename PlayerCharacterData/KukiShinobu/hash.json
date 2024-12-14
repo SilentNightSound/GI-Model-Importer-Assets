@@ -1,0 +1,98 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "71cebcdf",
+        "position_vb": "7cfb62ea",
+        "blend_vb": "93ed7092",
+        "texcoord_vb": "7073386b",
+        "ib": "ff16c309",
+        "object_indexes": [
+            0,
+            22356
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "daaf9199"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "48bab421"
+                ]
+            ],
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b484a81d"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "c621ad3d"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0278f7a5"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Mask",
+        "root_vs": "",
+        "draw_vb": "76088080",
+        "position_vb": "76088080",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "3f71a2db",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "daaf9199"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "48bab421"
+                ]
+            ]
+        ]
+    }
+]

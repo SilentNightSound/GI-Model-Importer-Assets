@@ -35,11 +35,6 @@
                     "LightMap",
                     ".dds",
                     "f9609355"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -57,11 +52,6 @@
                     "LightMap",
                     ".dds",
                     "5fcf9362"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -79,11 +69,6 @@
                     "LightMap",
                     ".dds",
                     "5fcf9362"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ],
             [
@@ -101,18 +86,13 @@
                     "LightMap",
                     ".dds",
                     "f9609355"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "336e7cb184bcdb44"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -130,19 +110,8 @@
                     "Diffuse",
                     ".dds",
                     "895cd4d0"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "380a1467"
                 ]
             ]
-        ],
-        "first_vs": "e81202ab08e127e2"
+        ]
     }
 ]
