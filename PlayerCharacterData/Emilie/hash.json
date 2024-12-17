@@ -35,11 +35,6 @@
                     "LightMap",
                     ".dds",
                     "eac0bc5d"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "b7ff7a6e"
                 ]
             ],
             [
@@ -51,17 +46,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "846e94b7"
+                    "47ac14a4"
                 ],
                 [
                     "LightMap",
                     ".dds",
                     "88cace6d"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -73,17 +63,12 @@
                 [
                     "Diffuse",
                     ".dds",
-                    "846e94b7"
+                    "47ac14a4"
                 ],
                 [
                     "LightMap",
                     ".dds",
                     "88cace6d"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -101,14 +86,32 @@
                     "LightMap",
                     ".dds",
                     "eac0bc5d"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
         ],
-        "first_vs": "ef9d42524d7111b0"
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "1f99169a"
+                ]
+            ]
+        ]
     }
 ]

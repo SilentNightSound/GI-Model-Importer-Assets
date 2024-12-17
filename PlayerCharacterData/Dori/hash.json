@@ -31,11 +31,6 @@
                     "LightMap",
                     ".dds",
                     "24463c26"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -53,18 +48,13 @@
                     "LightMap",
                     ".dds",
                     "6cd41bdb"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "336e7cb184bcdb44"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -79,22 +69,11 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "2021c2b9"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "380a1467"
+                    "2021c2b9"
                 ]
             ]
-        ],
-        "first_vs": "e81202ab08e127e2"
+        ]
     }
 ]

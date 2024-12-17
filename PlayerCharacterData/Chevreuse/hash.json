@@ -31,11 +31,6 @@
                     "LightMap",
                     ".dds",
                     "baa57fcd"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -53,15 +48,9 @@
                     "LightMap",
                     ".dds",
                     "cb535c8a"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "0201f91c60f12ca8"
+        ]
     },
     {
         "component_name": "Face",
@@ -85,7 +74,6 @@
                     "04be9db3"
                 ]
             ]
-        ],
-        "first_vs": "6e2fb506fd91c482"
+        ]
     }
 ]

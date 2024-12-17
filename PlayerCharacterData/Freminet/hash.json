@@ -3,9 +3,9 @@
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
         "draw_vb": "7bf55145",
-        "position_vb": "d2bfc751",
-        "blend_vb": "4443153c",
-        "texcoord_vb": "333aa56c",
+        "position_vb": "86559a85",
+        "blend_vb": "dc9e9ad0",
+        "texcoord_vb": "4000c72b",
         "ib": "6d40de64",
         "object_indexes": [
             0,
@@ -31,11 +31,6 @@
                     "LightMap",
                     ".dds",
                     "cd1f4845"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
@@ -53,14 +48,32 @@
                     "LightMap",
                     ".dds",
                     "d4aaca04"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
         ],
-        "first_vs": "ac17fc996680a93a"
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "e35468b8"
+                ]
+            ]
+        ]
     }
 ]

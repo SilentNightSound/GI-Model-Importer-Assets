@@ -64,7 +64,30 @@
                     "dc7d00e7"
                 ]
             ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
         ],
-        "first_vs": "2b155ac78b3f3fe0"
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "a44625da"
+                ]
+            ]
+        ]
     }
 ]

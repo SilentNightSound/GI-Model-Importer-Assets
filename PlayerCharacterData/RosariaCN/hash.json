@@ -30,16 +30,6 @@
                     "LightMap",
                     ".dds",
                     "825c32a0"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ],
             [
@@ -52,16 +42,6 @@
                     "LightMap",
                     ".dds",
                     "cf7b6deb"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ],
             [
@@ -74,16 +54,6 @@
                     "LightMap",
                     ".dds",
                     "825c32a0"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ],
             [
@@ -96,23 +66,13 @@
                     "LightMap",
                     ".dds",
                     "cf7b6deb"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "3b74c61dd5c8596a"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -130,24 +90,8 @@
                     "Diffuse",
                     ".dds",
                     "2abd61ee"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "bf9fccca"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "e603c25d320865eb"
+        ]
     }
 ]
