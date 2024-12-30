@@ -1,0 +1,128 @@
+[
+  {
+	"component_name": "",
+	"root_vs": "653c63ba4a73ca8b",
+	"draw_vb": "db1ccc0d",
+	"position_vb": "b5a29a7d",
+	"blend_vb": "399df744",
+	"texcoord_vb": "cea113ae",
+	"ib": "980cee65",
+	"object_indexes": [
+	  0,
+	  32064,
+	  79233
+	],
+	"object_classifications": [
+	  "Head",
+	  "Body",
+	  "Dress"
+	],
+	"texture_hashes": [
+	  [
+		[
+		  "NormalMap",
+		  ".dds",
+		  "d4d5f80a"
+		],
+		[
+		  "Diffuse",
+		  ".dds",
+		  "1bc982a0"
+		],
+		[
+		  "LightMap",
+		  ".dds",
+		  "1e022039"
+		]
+	  ],
+	  [
+		[
+		  "NormalMap",
+		  ".dds",
+		  "1d456693"
+		],
+		[
+		  "Diffuse",
+		  ".dds",
+		  "2aa293e8"
+		],
+		[
+		  "LightMap",
+		  ".dds",
+		  "d44c5bdc"
+		]
+	  ],
+	  [
+		[
+		  "NormalMap",
+		  ".dds",
+		  "1d456693"
+		],
+		[
+		  "Diffuse",
+		  ".dds",
+		  "2aa293e8"
+		],
+		[
+		  "LightMap",
+		  ".dds",
+		  "d44c5bdc"
+		]
+	  ]
+	]
+  },
+  {
+	"component_name": "Face",
+	"root_vs": "",
+	"draw_vb": "",
+	"position_vb": "",
+	"blend_vb": "",
+	"texcoord_vb": "",
+	"ib": "",
+	"object_indexes": [
+	  0
+	],
+	"object_classifications": [
+	  "Head"
+	],
+	"texture_hashes": [
+	  [
+		[
+		  "Diffuse",
+		  ".dds",
+		  "df04be2e"
+		]
+	  ]
+	]
+  },
+  {
+	"component_name": "NatlanFX",
+	"root_vs": "",
+	"draw_vb": "",
+	"position_vb": "",
+	"blend_vb": "",
+	"texcoord_vb": "",
+	"ib": "",
+	"object_indexes": [
+	  0,
+	  32064,
+	  79233
+	],
+	"object_classifications": [
+	  "Head",
+	  "Body",
+	  "Dress"
+	],
+	"texture_hashes": [
+	  [],
+	  [],
+	  [
+		[
+		  "ShadowRamp",
+		  ".dds",
+		  "21525675"
+		]
+	  ]
+	]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+	"component_name": "",
+	"root_vs": "653c63ba4a73ca8b",
+	"draw_vb": "46b88d32",
+	"position_vb": "888c4b7c",
+	"blend_vb": "29ca2f46",
+	"texcoord_vb": "55af12ce",
+	"ib": "8f29c0bb",
+	"object_indexes": [
+	  0,
+	  47910
+	],
+	"object_classifications": [
+	  "Head",
+	  "Body"
+	],
+	"texture_hashes": [
+	  [
+		[
+		  "NormalMap",
+		  ".dds",
+		  "7e9d7da2"
+		],
+		[
+		  "Diffuse",
+		  ".dds",
+		  "e139cfd8"
+		],
+		[
+		  "LightMap",
+		  ".dds",
+		  "07040d80"
+		]
+	  ],
+	  [
+		[
+		  "NormalMap",
+		  ".dds",
+		  "ccd3ad03"
+		],
+		[
+		  "Diffuse",
+		  ".dds",
+		  "c5b367d7"
+		],
+		[
+		  "LightMap",
+		  ".dds",
+		  "0ccd64e7"
+		]
+	  ]
+	]
+  },
+  {
+	"component_name": "Face",
+	"root_vs": "",
+	"draw_vb": "",
+	"position_vb": "",
+	"blend_vb": "",
+	"texcoord_vb": "",
+	"ib": "",
+	"object_indexes": [
+	  0
+	],
+	"object_classifications": [
+	  "Head"
+	],
+	"texture_hashes": [
+	  [
+		[
+		  "LightMap",
+		  ".dds",
+		  "478a69ce"
+		]
+	  ]
+	]
+  },
+  {
+	"component_name": "NatlanFX",
+	"root_vs": "",
+	"draw_vb": "",
+	"position_vb": "",
+	"blend_vb": "",
+	"texcoord_vb": "",
+	"ib": "",
+	"object_indexes": [
+	  0,
+	  47910
+	],
+	"object_classifications": [
+	  "Head",
+	  "Body"
+	],
+	"texture_hashes": [
+	  [
+		[
+		  "Shadow",
+		  ".dds",
+		  "8782d2da"
+		]
+	  ],
+	  []
+	]
+  }
+]
