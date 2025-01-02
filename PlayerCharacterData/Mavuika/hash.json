@@ -143,7 +143,9 @@
             42618
         ],
         "object_classifications": [
-            "Head"
+            "Head",
+            "Body",
+            "Dress"
         ],
         "texture_hashes": [
             [
