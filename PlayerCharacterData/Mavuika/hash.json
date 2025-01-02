@@ -35,12 +35,12 @@
     },
     {
         "component_name": "Body",
-        "root_vs": "",
-        "draw_vb": "",
-        "position_vb": "",
-        "blend_vb": "",
-        "texcoord_vb": "",
-        "ib": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "00323c91",
+        "position_vb": "80b13a2f",
+        "blend_vb": "4e654846",
+        "texcoord_vb": "3af262c1",
+        "ib": "43f8af29",
         "object_indexes": [
             0,
             16914,
