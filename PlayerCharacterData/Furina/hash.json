@@ -22,46 +22,46 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "38b2a6a7"
+                    "e7b5e588"
                 ],
                 [
                     "Diffuse",
                     ".dds",
-                    "4c1b5389"
+                    "ae654241"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "9612c13d"
+                    "0c433dfd"
                 ]
             ],
             [
                 [
                     "NormalMap",
                     ".dds",
-                    "42fb3933"
+                    "e7b5e588"
                 ],
                 [
                     "Diffuse",
                     ".dds",
-                    "c4dac88d"
+                    "39ff38df"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "901cbcaa"
+                    "0968bae9"
                 ]
             ],
             [
                 [
                     "Diffuse",
                     ".dds",
-                    "c4dac88d"
+                    "39ff38df"
                 ],
                 [
                     "LightMap",
                     ".dds",
-                    "901cbcaa"
+                    "0968bae9"
                 ]
             ]
         ]
@@ -86,6 +86,64 @@
                     "Diffuse",
                     ".dds",
                     "e6f05166"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Ponytail",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "12c26e65",
+        "position_vb": "2a47d8de",
+        "blend_vb": "e4a4630a",
+        "texcoord_vb": "a72fe835",
+        "ib": "5e4f8d68",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6e612626"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6dfb5150"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Ponytail",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "12c26e65",
+        "position_vb": "2a47d8de",
+        "blend_vb": "e4a4630a",
+        "texcoord_vb": "a72fe835",
+        "ib": "5e4f8d68",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "6e612626"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "6dfb5150"
                 ]
             ]
         ]
