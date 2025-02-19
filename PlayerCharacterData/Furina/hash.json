@@ -118,34 +118,5 @@
                 ]
             ]
         ]
-    },
-    {
-        "component_name": "Ponytail",
-        "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "12c26e65",
-        "position_vb": "2a47d8de",
-        "blend_vb": "e4a4630a",
-        "texcoord_vb": "a72fe835",
-        "ib": "5e4f8d68",
-        "object_indexes": [
-            0
-        ],
-        "object_classifications": [
-            "Head"
-        ],
-        "texture_hashes": [
-            [
-                [
-                    "Diffuse",
-                    ".dds",
-                    "6e612626"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "6dfb5150"
-                ]
-            ]
-        ]
     }
 ]
