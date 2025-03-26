@@ -1,0 +1,106 @@
+[
+    {
+        "component_name": "",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "8872531c",
+        "position_vb": "9784dbe3",
+        "blend_vb": "ef26783e",
+        "texcoord_vb": "0fa7f23f",
+        "ib": "488fceb4",
+        "object_indexes": [
+            0,
+            40554
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "fbd156ce"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "edae63e5"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "4385281a"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "aba51821"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4c6ace0e"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "1c051afc"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "Head"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9a534567"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "NatlanFX",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0,
+            40554
+        ],
+        "object_classifications": [
+            "Head",
+            "Body"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "47590010"
+                ]
+            ],
+            []
+        ]
+    }
+]
