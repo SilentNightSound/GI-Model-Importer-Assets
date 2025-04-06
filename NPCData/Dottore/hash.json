@@ -103,24 +103,9 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "939257ee"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "000099-ps-t1"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "bf9fccca"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "5404c404"
+                    "939257ee"
                 ]
             ]
         ],
