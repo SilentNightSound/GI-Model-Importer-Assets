@@ -1,0 +1,263 @@
+[
+    {
+        "component_name": "Bangs",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "afdeba01",
+        "position_vb": "1bf11413",
+        "blend_vb": "84f23015",
+        "texcoord_vb": "2d424e7d",
+        "ib": "5a665e02",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba71406c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a88778c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "346c7248"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "36ff6c29"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "540e6acf",
+        "position_vb": "be085382",
+        "blend_vb": "c034288c",
+        "texcoord_vb": "c0fc7abd",
+        "ib": "606a6e40",
+        "object_indexes": [
+            0,
+            31560,
+            77442
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba71406c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a88778c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "346c7248"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "f255d7e3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "f4991733"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "70086643"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "f255d7e3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "f4991733"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "70086643"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "CapeSide",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "29a6299d",
+        "position_vb": "5a2cf942",
+        "blend_vb": "568970ae",
+        "texcoord_vb": "22e34fe0",
+        "ib": "345cb65a",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "f255d7e3"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "f4991733"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "70086643"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "CapeMiddle",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "03672763",
+        "position_vb": "e3f60e00",
+        "blend_vb": "d699e47c",
+        "texcoord_vb": "c6f5059c",
+        "ib": "e46f6e57",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba71406c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a88778c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "346c7248"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "CapeGlow",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "cb6b3186",
+        "position_vb": "004b76c5",
+        "blend_vb": "b0a5d3cc",
+        "texcoord_vb": "3eed22cd",
+        "ib": "cd690a66",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba71406c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "4a88778c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "346c7248"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyes",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "acfe1118",
+        "position_vb": "e6b32dac",
+        "blend_vb": "1defa9a0",
+        "texcoord_vb": "592ef93b",
+        "ib": "6a090a16",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "ba71406c"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "346c7248"
+                ]
+            ]
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "component_name": "Body",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "7a45dc9e",
+        "position_vb": "845f14ca",
+        "blend_vb": "2f2a744d",
+        "texcoord_vb": "77bf113b",
+        "ib": "d561fadc",
+        "object_indexes": [
+            0,
+            48570,
+            73152
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "483d5c8c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8b6a25cf"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4eb13f0f"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "7161a2bf"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "423bb8fd"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b56e9cb7"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "7161a2bf"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "423bb8fd"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "b56e9cb7"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "0f178795"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Hat",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "483d5c8c"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8b6a25cf"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4eb13f0f"
+                ]
+            ]
+        ]
+    }
+]

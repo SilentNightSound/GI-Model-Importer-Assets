@@ -1,0 +1,185 @@
+[
+    {
+        "component_name": "Bangs",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "e26e1db3",
+        "position_vb": "f25edf24",
+        "blend_vb": "158785a8",
+        "texcoord_vb": "1e0aafe0",
+        "ib": "5a1345c9",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "fb0e0e9d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "67d747f2"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5ee611d0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "43e49ac3"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyes",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "0a7a76aa",
+        "position_vb": "7e27b643",
+        "blend_vb": "6442cc7e",
+        "texcoord_vb": "6eb0f6d7",
+        "ib": "c3e809a5",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "bbd20a54"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f3cbc990"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "cecefbb2",
+        "position_vb": "89e96109",
+        "blend_vb": "8226cf84",
+        "texcoord_vb": "d8e6d8e4",
+        "ib": "ce158bd6",
+        "object_indexes": [
+            0,
+            19074,
+            75702
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "fb0e0e9d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "67d747f2"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5ee611d0"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "bbd20a54"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f3cbc990"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "fb0e0e9d"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "67d747f2"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "5ee611d0"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Horns",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "65a0e51a",
+        "position_vb": "504a7d20",
+        "blend_vb": "a68439ae",
+        "texcoord_vb": "59660493",
+        "ib": "7306ff89",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "bbd20a54"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "f3cbc990"
+                ]
+            ]
+        ]
+    }
+]
