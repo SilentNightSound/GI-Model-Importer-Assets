@@ -1,5 +1,39 @@
 [
     {
+        "component_name": "Hat",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "8b6a25cf"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "4eb13f0f"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "483d5c8c"
+                ]
+            ]
+        ]
+    },
+    {
         "component_name": "Body",
         "root_vs": "653c63ba4a73ca8b",
         "draw_vb": "7a45dc9e",
@@ -20,11 +54,6 @@
         "texture_hashes": [
             [
                 [
-                    "LightMap",
-                    ".dds",
-                    "483d5c8c"
-                ],
-                [
                     "NormalMap",
                     ".dds",
                     "8b6a25cf"
@@ -33,14 +62,14 @@
                     "Diffuse",
                     ".dds",
                     "4eb13f0f"
-                ]
-            ],
-            [
+                ],
                 [
                     "LightMap",
                     ".dds",
-                    "7161a2bf"
-                ],
+                    "483d5c8c"
+                ]
+            ],
+            [
                 [
                     "NormalMap",
                     ".dds",
@@ -50,14 +79,14 @@
                     "Diffuse",
                     ".dds",
                     "b56e9cb7"
-                ]
-            ],
-            [
+                ],
                 [
                     "LightMap",
                     ".dds",
                     "7161a2bf"
-                ],
+                ]
+            ],
+            [
                 [
                     "NormalMap",
                     ".dds",
@@ -67,6 +96,11 @@
                     "Diffuse",
                     ".dds",
                     "b56e9cb7"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "7161a2bf"
                 ]
             ]
         ]
@@ -96,7 +130,7 @@
         ]
     },
     {
-        "component_name": "Hat",
+        "component_name": "NatlanFX",
         "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
@@ -112,19 +146,9 @@
         "texture_hashes": [
             [
                 [
-                    "LightMap",
+                    "StockingMap",
                     ".dds",
-                    "483d5c8c"
-                ],
-                [
-                    "NormalMap",
-                    ".dds",
-                    "8b6a25cf"
-                ],
-                [
-                    "Diffuse",
-                    ".dds",
-                    "4eb13f0f"
+                    "9177f13f"
                 ]
             ]
         ]
