@@ -1,0 +1,193 @@
+[
+    {
+        "component_name": "Bangs",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "7a1cfc2c",
+        "position_vb": "4c608bb6",
+        "blend_vb": "f2c61779",
+        "texcoord_vb": "c9f003bd",
+        "ib": "36713af5",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "31e37054"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "008204b9"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ee7596d8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Face",
+        "root_vs": "",
+        "draw_vb": "",
+        "position_vb": "",
+        "blend_vb": "",
+        "texcoord_vb": "",
+        "ib": "",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "132ea2a8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Eyes",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "1eeb3d05",
+        "position_vb": "a718160c",
+        "blend_vb": "b8cff159",
+        "texcoord_vb": "fdc60590",
+        "ib": "e7085600",
+        "object_indexes": [
+            0
+        ],
+        "object_classifications": [
+            "A"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "31e37054"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ee7596d8"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Body",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "72626f38",
+        "position_vb": "da9f1463",
+        "blend_vb": "fe2e3d94",
+        "texcoord_vb": "f550227a",
+        "ib": "cdb045fc",
+        "object_indexes": [
+            0,
+            28425,
+            76071
+        ],
+        "object_classifications": [
+            "A",
+            "B",
+            "C"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "31e37054"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "008204b9"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "ee7596d8"
+                ]
+            ],
+            [
+                [
+                    "LightMap",
+                    ".dds",
+                    "64e53456"
+                ],
+                [
+                    "NormalMap",
+                    ".dds",
+                    "531785bc"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9aa23647"
+                ]
+            ],
+            [
+                [
+                    "NormalMap",
+                    ".dds",
+                    "531785bc"
+                ],
+                [
+                    "Diffuse",
+                    ".dds",
+                    "9aa23647"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "64e53456"
+                ]
+            ]
+        ]
+    },
+    {
+        "component_name": "Lantern",
+        "root_vs": "653c63ba4a73ca8b",
+        "draw_vb": "e666d6ae",
+        "position_vb": "86287c40",
+        "blend_vb": "ba317690",
+        "texcoord_vb": "4aa0462c",
+        "ib": "cf410a0d",
+        "object_indexes": [
+            0,
+            5298
+        ],
+        "object_classifications": [
+            "A",
+            "B"
+        ],
+        "texture_hashes": [
+            [
+                [
+                    "Diffuse",
+                    ".dds",
+                    "bbee7f17"
+                ],
+                [
+                    "LightMap",
+                    ".dds",
+                    "fd19bb26"
+                ]
+            ],
+            []
+        ]
+    }
+]
